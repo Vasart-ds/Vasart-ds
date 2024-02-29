@@ -6,7 +6,7 @@
 
 ### Contacts:
 <a href="https://t.me/vasyukhin_art" target="_blank">
-<img align="left" alt="vasart | Telegram" width="22px" src="https://newsofrussia.ru/wp-content/uploads/2022/11/kak-nastroit-proxy-telegram-1.png"/>
+<img align="left" alt="vasart | Telegram" width="22px" src="https://optika-fielmann.by/social_icons/telegrams.png"/>
 </a>
 <a href="https://vk.com/kvasart" target="_blank">
   <img align="left" alt="vasart | VK" width="22px" src="https://logos-download.com/wp-content/uploads/2021/06/VK_black_Logo_2021-2048x2048.png"/>
