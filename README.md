@@ -24,8 +24,8 @@
 <br />
 <br />
 
-| Проект | Eng.ver.(в разработке) | Стек | Описание | 
-|----------|----------|----------|----------|
-| <a href='https://github.com/Vasart-ds/ya_music_ru' target="_blank">"Яндекс.Музыка"</a> | "Yandex.Music" data research | Python, Pandas, Matplotlib | Исследовательский анализ данных и проверка гипотез на основе данных сервиса "Яндекс.Музыка" для пользователей из Москвы и Санкт-Петербурга |
-| Row 2 | Cell 5 | Cell 6 | Cell 3 |
-| Row 3 | Cell 8 | Cell 9 | Cell 3 |
+| Проект | Стек | Описание | 
+|----------|----------|----------|
+| <a href='https://github.com/Vasart-ds/ya_music_ru' target="_blank">"Яндекс.Музыка"</a> | Python, Pandas, Matplotlib | Исследовательский анализ данных и проверка гипотез на основе данных сервиса "Яндекс.Музыка" для пользователей из Москвы и Санкт-Петербурга |
+| <a href='https://github.com/Vasart-ds/heart_disease_prediction' target="_blank">Прогнозатор сердечно-сосудистых заболеваний</a> | Python, Pandas, Matplotlib, Data analysis, Machine Learning, Streamlit| Приложение для прогнозирования сердечно-сосудистых заболеваний на основе показателей здоровья человека |
+| <a href='https://github.com/Vasart-ds/CEFR_predicting' target="_blank">Какой сериал для изучения английского выбрать?</a> | Data analysis, Machine Learning, Streamlit | Рекомендательная система помощи изучающим английский язык при помощи сериалов, основанная на субтитрах к ним |
