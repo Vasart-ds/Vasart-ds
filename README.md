@@ -1,8 +1,7 @@
 ### Hello, I'm Artem Vasyukhin 👋
 
-- 👨‍🔬Analytics, ML 
-- 👨👩Social, 🚀product, 👨‍⚕️ medicine
-- 🐸Frogs is for wednesday, ma dudes
+- 👨‍🔬analytics, ML
+- 👨👩social, 🚀product, 👨‍⚕️ medicine
 
 ### Contacts:
 <a href="https://t.me/vasyukhin_art" target="_blank">
