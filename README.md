@@ -1,7 +1,6 @@
 ### Hello, I'm Artem Vasyukhin 👋
 
 - 👨‍🔬analytics, ML
-- 👨👩social, 🚀product, 👨‍⚕️ medicine
 
 ### Contacts:
 <a href="https://t.me/vasyukhin_art" target="_blank">
