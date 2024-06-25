@@ -16,7 +16,7 @@
 <img align="left" alt="python" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" />
 <img align="left" alt="pandas" width="52px" src="https://www.filepicker.io/api/file/PWRlW7zGR56Lxo3Qqkxi" />
 <img align="left" alt="matplotlib" width="26px" src="https://w7.pngwing.com/pngs/954/81/png-transparent-matplotlib-python-chart-introduction-miscellaneous-angle-triangle.png" />
-<img align="left" alt="scikit-learn" width="52px" src="https://www.oursky.com/assets/img/tech__scikit.png" />
+<img align="left" alt="scikit-learn" width="52px" src="https://docs.apachecn.org/assets/images/编程语言/skl.png" />
 <img align="left" alt="postgresql" width="26px" src="https://vectorified.com/images/postgresql-icon-11.jpg" />
 <img align="left" alt="spark" width="52px" src="https://filearchive.cnews.ru/img/book/2022/05/26/apache_spark_logo.svg.png" />
 <br />
