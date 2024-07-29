@@ -21,8 +21,3 @@
 <img align="left" alt="spark" width="52px" src="https://filearchive.cnews.ru/img/book/2022/05/26/apache_spark_logo.svg.png" />
 <br />
 <br />
-
-### Projects (updating)
-
-| Проект | Стек | Описание | 
-|----------|----------|----------|
