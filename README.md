@@ -1,4 +1,4 @@
-### Hello, I'm Artem Vasyukhin 👋
+### Artem Vasyukhin 👋
 
 - 👨‍🔬analytics, ML
 
