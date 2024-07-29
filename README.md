@@ -21,7 +21,7 @@
 <img align="left" alt="scikit-learn" width="52px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ErODifno--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/73uneecvtsffrziehyp9.png" />
 <img align="left" alt="postgresql" width="26px" src="https://vectorified.com/images/postgresql-icon-11.jpg" />
 <img align="left" alt="spark" width="52px" src="https://filearchive.cnews.ru/img/book/2022/05/26/apache_spark_logo.svg.png" />
-<img align='left' src="https://github.com/devicons/devicon/raw/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="40" height="52" >
+<img align='left' src="https://github.com/devicons/devicon/raw/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="40" height="40" >
 <img src="https://private-user-images.githubusercontent.com/116313032/280108275-732a89ba-9ba9-4003-91c3-c9f47a63db25.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIyOTA3NzYsIm5iZiI6MTcyMjI5MDQ3NiwicGF0aCI6Ii8xMTYzMTMwMzIvMjgwMTA4Mjc1LTczMmE4OWJhLTliYTktNDAwMy05MWMzLWM5ZjQ3YTYzZGIyNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyOVQyMjAxMTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zOTAxYTJmZTg1ODM3ZTZkYjE0ZWE2ZmVkNjdlOTFkNjc0OWQ2NDNiMDY3NDJmOGQyMWE2ZTNkYzcxMTA3ODM4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Pw17pl13X6xJDcyZUXw7DwZbE1YnwRMes2hM-WasQlo" title="Сatboost" alt="Сatboost" width="40" height="40" style="max-width: 100%;">
 <br />
 <br />
