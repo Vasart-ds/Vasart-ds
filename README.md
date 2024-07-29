@@ -18,6 +18,7 @@
 <img align="left" alt="python" width="40px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" />
 <img align="left" alt="pandas" width="40px" src="https://www.filepicker.io/api/file/PWRlW7zGR56Lxo3Qqkxi" />
 <img align="left" alt="matplotlib" width="40px" src="https://w7.pngwing.com/pngs/954/81/png-transparent-matplotlib-python-chart-introduction-miscellaneous-angle-triangle.png" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" style="max-width: 100%;">
 <img align="left" alt="scikit-learn" width="40px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ErODifno--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/73uneecvtsffrziehyp9.png" />
 <img align="left" alt="postgresql" width="40px" src="https://vectorified.com/images/postgresql-icon-11.jpg" />
 <img align="left" alt="spark" width="40px" src="https://filearchive.cnews.ru/img/book/2022/05/26/apache_spark_logo.svg.png" />
