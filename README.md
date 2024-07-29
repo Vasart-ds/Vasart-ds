@@ -1,6 +1,6 @@
 ### Artem Vasyukhin 👋
 
-Analytics, Data Science
+- Analytics, Data Science
 
 ### Contacts:
 <a href="https://t.me/vasyukhin_art" target="_blank">
@@ -9,7 +9,9 @@ Analytics, Data Science
 <a href="https://vk.com/kvasart" target="_blank">
   <img align="left" alt="vasart | VK" width="22px" src="https://logospng.org/download/vk/vk-4096.png"/>
 </a>
-
+<a href="https://www.linkedin.com/in/sergeivasilev26/" rel="nofollow">
+    <img <a href='https://www.linkedin.com/in/artem-vasyukhin-963126250/' alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+  </a>
 <br />
 
 ### Languages and Tools:
