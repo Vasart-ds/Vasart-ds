@@ -21,7 +21,7 @@
 <img align="left" alt="scikit-learn" width="52px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ErODifno--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/73uneecvtsffrziehyp9.png" />
 <img align="left" alt="postgresql" width="26px" src="https://vectorified.com/images/postgresql-icon-11.jpg" />
 <img align="left" alt="spark" width="52px" src="https://filearchive.cnews.ru/img/book/2022/05/26/apache_spark_logo.svg.png" />
-<img align='left' src="https://github.com/devicons/devicon/raw/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="40" height="40" style="max-width: 100%;">
-<img align='left' src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/CatBoost-01-900x0.png" title="Сatboost" alt="Сatboost" width="40" height="40" style="max-width: 100%;">
+<img align='left' src="https://github.com/devicons/devicon/raw/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="40" height="52" style="max-width: 100%;">
+<img align='left' src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/CatBoost-01-900x0.png" title="Сatboost" alt="Сatboost" width="52" height="40" style="max-width: 100%;">
 <br />
 <br />
