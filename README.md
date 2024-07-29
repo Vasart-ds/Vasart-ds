@@ -1,6 +1,6 @@
 ### Artem Vasyukhin 👋
 
-- 👨‍🔬analytics, ML
+Analytics, Data Science
 
 ### Contacts:
 <a href="https://t.me/vasyukhin_art" target="_blank">
