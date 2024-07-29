@@ -22,6 +22,6 @@
 <img align="left" alt="postgresql" width="26px" src="https://vectorified.com/images/postgresql-icon-11.jpg" />
 <img align="left" alt="spark" width="52px" src="https://filearchive.cnews.ru/img/book/2022/05/26/apache_spark_logo.svg.png" />
 <img align='left' src="https://github.com/devicons/devicon/raw/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="40" height="52" >
-<img align='left' src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/CatBoost-01-900x0.png" title="Сatboost" alt="Сatboost" width="52" height="40">
+<img align='left' src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/CatBoost-01-900x0.png" title="Сatboost" alt="Сatboost" height="40">
 <br />
 <br />
