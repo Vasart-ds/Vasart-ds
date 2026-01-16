@@ -10,7 +10,7 @@
   <img align="left" alt="vasart | VK" width="22px" src="https://logospng.org/download/vk/vk-4096.png"/>
 </a>
 <a href="https://www.linkedin.com/in/artem-vasyukhin-963126250/" rel="nofollow">
-    <img src="https://i.pinimg.com/736x/0b/d1/9f/0bd19fe3bfbb8591b615ff69b76b8371.jpg" alt="LinkedIn Badge" data-canonical-src="https://i.pinimg.com/736x/0b/d1/9f/0bd19fe3bfbb8591b615ff69b76b8371.jpg" style="max-width: 100%;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/1136px-LinkedIn_Logo_2013.svg.png" alt="LinkedIn Badge" style="max-width: 100%;">
   </a>
 <br />
 
