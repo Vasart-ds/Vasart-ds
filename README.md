@@ -10,7 +10,7 @@
   <img align="left" alt="vasart | VK" width="22px" src="https://logospng.org/download/vk/vk-4096.png"/>
 </a>
 <a href="https://www.linkedin.com/in/artem-vasyukhin-963126250/">
-    <img src="https://img.icons8.com/android/1200/linkedin.jpg" alt="LinkedIn Badge" width="22px"/>
+    <img src="https://img.freepik.com/premium-vector/linkedin-square-logo-vector_667864-115.jpg" alt="LinkedIn Badge" width="22px"/>
   </a>
 <br />
 
