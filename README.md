@@ -3,10 +3,10 @@
 - Analytics, Data Science
 
 ### Contacts:
-<a href="https://t.me/vasyukhin_art" target="_blank">
+<a href="https://t.me/vasyukhin_art" target="_blank" rel="nofollow">
 <img align="left" alt="vasart | Telegram" width="22px" src="https://bdolife.ru/wp-content/uploads/2022/10/icon-telegram_1x.png"/>
 </a>
-<a href="https://vk.com/kvasart" target="_blank">
+<a href="https://vk.com/kvasart" target="_blank" rel="nofollow">
   <img align="left" alt="vasart | VK" width="22px" src="https://logospng.org/download/vk/vk-4096.png"/>
 </a>
 <a href="https://www.linkedin.com/in/artem-vasyukhin-963126250/" rel="nofollow">
